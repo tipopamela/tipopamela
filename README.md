@@ -1,10 +1,21 @@
-### Hey! Tudo bem?
+## Hey! Tudo bem? :alien:
 
-#### Sejam bem vindes ao meu perfil no Github! :bug:
+### :octocat: Sejam bem vindes ao meu perfil no Github! 
 
-<p> Meu nome é Pâmela Santos, estudante Full Stack em transição de carreira. <br>
+<p> Meu nome é Pâmela Santos, estudante Front-end em transição de carreira. <br>
 Meu primeiro contato com a programação foi através do curso <a href="https://www.programaria.org/cursos/euprogramo/" rel="nofollow">Curso Online Eu ProgrAmo</a> da Programaria! <br>
 Atualmente trabalho com atendimento marketplace pelo Mercado Livre.</p>
+
+**Outros contatos com a área de tecnologia:**
+- [x] Algoritmo, Git e Github, HTML5 e CSS3 | Curso em Video - Gustavo Guanabara
+- [x] Imersão Dev | Alura
+- [x] Bootcamps | Digital Innovation One
+- [x] NLW | Rocketseat
+- [x] Git e Github do zero ao avançado | Udemy
+- [ ] Desenvolvimento Web Completo | Udemy
+- [ ] Engenheiro Front-end | EBAC - Escola Britânica de Artes Criativas e Tecnologia
+
+> :tada: Bolsista no curso **Certified Tech Developer** pela _Digital House_.
 
 <p align="left">
   💌 pssantos201@gmail.com
@@ -18,8 +29,8 @@ Atualmente trabalho com atendimento marketplace pelo Mercado Livre.</p>
   
   ##### Loading...
   <p align="left">
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="20" height="20" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="20" height="20" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" style="max-width:100%;"></a>
 </p>
 
