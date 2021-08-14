@@ -20,10 +20,6 @@ Atualmente trabalho com atendimento marketplace pelo Mercado Livre.</p>
 <p align="left">
   💌 pssantos201@gmail.com
 </p>
-  <p align="left">
-  <a href="https://accounts.google.com/" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
   <a href="https://www.linkedin.com/in/pamelasantoss/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
   
