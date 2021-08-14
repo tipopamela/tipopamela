@@ -3,7 +3,7 @@
 ### :octocat: Sejam bem vindes ao meu perfil no Github! 
 
 <p> Meu nome é Pâmela Santos, estudante Front-end em transição de carreira. <br>
-Meu primeiro contato com a programação foi através do curso <a href="https://www.programaria.org/cursos/euprogramo/" rel="nofollow">Curso Online Eu ProgrAmo</a> da Programaria! <br>
+Meu primeiro contato com a programação foi através do <a href="https://www.programaria.org/cursos/euprogramo/" rel="nofollow">Curso Online Eu ProgrAmo</a> da Programaria! <br>
 Atualmente trabalho com atendimento marketplace pelo Mercado Livre.</p>
 
 **Outros contatos com a área de tecnologia:**
