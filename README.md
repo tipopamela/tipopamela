@@ -6,16 +6,8 @@
 Meu primeiro contato com a programação foi através do <a href="https://www.programaria.org/cursos/euprogramo/" rel="nofollow">Curso Online Eu ProgrAmo</a> da Programaria! <br>
 Atualmente trabalho com atendimento marketplace pelo Mercado Livre.</p>
 
-**Outros contatos com a área de tecnologia:**
-- [x] Algoritmo, Git e Github, HTML5 e CSS3 | Curso em Video - Gustavo Guanabara
-- [x] Imersão Dev | Alura
-- [x] Bootcamps | Digital Innovation One
-- [x] NLW | Rocketseat
-- [x] Git e Github do zero ao avançado | Udemy
-- [ ] Desenvolvimento Web Completo | Udemy
-- [ ] Engenheiro Front-end | EBAC - Escola Britânica de Artes Criativas e Tecnologia
 
-> :tada: Bolsista no curso **Certified Tech Developer** pela _Digital House_.
+:tada Cursando Engenheiro Front-end | EBAC - Escola Britânica de Artes Criativas e Tecnologia
 
 <p align="left">
   💌 pssantos201@gmail.com
