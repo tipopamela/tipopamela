@@ -7,7 +7,7 @@ Meu primeiro contato com a programação foi através do <a href="https://www.pr
 Atualmente trabalho com atendimento marketplace pelo Mercado Livre.</p>
 
 
-:tada Cursando Engenheiro Front-end | EBAC - Escola Britânica de Artes Criativas e Tecnologia
+Cursando Engenheiro Front-end | EBAC - Escola Britânica de Artes Criativas e Tecnologia
 
 <p align="left">
   💌 pssantos201@gmail.com
