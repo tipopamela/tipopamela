@@ -2,12 +2,12 @@
 
 ### :octocat: Sejam bem vindes ao meu perfil no Github! 
 
-<p> Meu nome é Pâmela Santos, estudante Front-end em transição de carreira. <br>
+<p> Meu nome é Pâmela Santos, estudante em transição de carreira. <br>
 Meu primeiro contato com a programação foi através do <a target="_blank" href="https://www.programaria.org/cursos/euprogramo/" rel="nofollow">Curso Online Eu ProgrAmo</a> da Programaria! <br>
 Atualmente trabalho com atendimento marketplace pelo Mercado Livre.</p>
 
 
-Cursando Engenheiro Front-end | EBAC - Escola Britânica de Artes Criativas e Tecnologia
+Cursando Análise e Desenvolvimento de Sistemas - Senac
 
 <p align="left">
   💌 pssantos201@gmail.com
